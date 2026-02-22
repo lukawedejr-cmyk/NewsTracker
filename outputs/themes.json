@@ -1,0 +1,2091 @@
+{
+  "top_k": 20,
+  "themes": [
+    {
+      "theme": 5,
+      "title": "Political and Economic Shifts Under Trump",
+      "summary": "Recent developments highlight the political and economic landscape shaped by former President Trump. From the reassurances of Democrats regarding his potential departure to the burdens of tariffs on midsize companies, the implications of Trump's policies continue to resonate. Additionally, the impact on international relations and market dynamics further illustrates the ongoing influence of his administration.",
+      "relevancy_score": 5983.5227546461665,
+      "sum_density": 5075.038039747185,
+      "median_centroid_distance": 0.8481689211938654,
+      "num_clusters": 21,
+      "total_articles": 322,
+      "clusters": [
+        {
+          "id": 260215015,
+          "date": "2026-02-15",
+          "title": "'Trump will be gone in three years': Top Democrats try",
+          "summary": "'Trump will be gone in three years': Top Democrats try to reassure Europe | INTERVIEW - \u00abTrump ist nicht diszipliniert und kompetent genug, um eine politische Revolution durchzuziehen\u00bb, sagt der Politologe Ian Bremmer. \u00abEr wird scheitern\u00bb | \u2018The best we can hope for\u2019: Rubio\u2019s Munich unity appeal fails to woo Europe",
+          "num_articles": 30,
+          "density": 162.0947478817592
+        },
+        {
+          "id": 260215017,
+          "date": "2026-02-15",
+          "title": "Retirement, medical, homeownership? A new workplace benefit for buyers",
+          "summary": "Retirement, medical, homeownership? A new workplace benefit for buyers | Can COLAs Really Keep Up With Inflation? Why I'm Not Relying on Social Security Alone in Retirement. | Here are the 3 kinds of people who need life insurance",
+          "num_articles": 21,
+          "density": 138.1169010559637
+        },
+        {
+          "id": 260215011,
+          "date": "2026-02-15",
+          "title": "Why MAGA brands have been a flop",
+          "summary": "Why MAGA brands have been a flop | ECB\u2019s Lagarde Pushes Back Against Taxes to Stop Capital Outflows | President Donald Trump and Wall Street Want Lower Interest Rates -- but Fed Chair Nominee Kevin Warsh May Have Other Plans",
+          "num_articles": 9,
+          "density": 95.08729969622664
+        },
+        {
+          "id": 260215030,
+          "date": "2026-02-15",
+          "title": "The Space Infrastructure Builder Stumbles While the Launch Provider Burns",
+          "summary": "The Space Infrastructure Builder Stumbles While the Launch Provider Burns Through Cash Faster | Western Digital\u2019s Week in Review: Shares Now Up 63% in 2026 | The ASTS Week in Review: 19% Stock Drop on Capital Raise Announcement",
+          "num_articles": 8,
+          "density": 91.76295922078536
+        },
+        {
+          "id": 260215005,
+          "date": "2026-02-15",
+          "title": "Eskalation in Reichweite: Wie sich die amerikanischen Streitkr\u00e4fte um den",
+          "summary": "Eskalation in Reichweite: Wie sich die amerikanischen Streitkr\u00e4fte um den Iran formieren | Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran | Iran Protester Dies in Custody, Raising Fears of Execution",
+          "num_articles": 7,
+          "density": 65.93177676282714
+        },
+        {
+          "id": 260216039,
+          "date": "2026-02-16",
+          "title": "China hopes for a bumper lunar new year as world\u2019s",
+          "summary": "China hopes for a bumper lunar new year as world\u2019s biggest migration begins | Laopu Gold, CMOC Shares Jump on Addition to Hang Seng Index | Industrial Metals Steady During Lunar New Year Holiday",
+          "num_articles": 20,
+          "density": 131.97165191542288
+        },
+        {
+          "id": 260217002,
+          "date": "2026-02-17",
+          "title": "Frederick Wiseman, prolific documentary film-maker, dies aged 96",
+          "summary": "Frederick Wiseman, prolific documentary film-maker, dies aged 96 | Rev. Jesse Jackson, civil rights icon and two-time presidential candidate, dies at 84 | Jesse Jackson, civil rights icon, dies aged 84",
+          "num_articles": 43,
+          "density": 806.3522982263828
+        },
+        {
+          "id": 260217008,
+          "date": "2026-02-17",
+          "title": "FBI won't co-operate on Alex Pretti investigation, state officials say",
+          "summary": "FBI won't co-operate on Alex Pretti investigation, state officials say | Entf\u00fchrungsfall Nancy Guthrie: \u00abEs ist nie zu sp\u00e4t, das Richtige zu tun\u00bb: TV-Moderatorin fleht Entf\u00fchrer ihrer Mutter an | Guthrie Family, Spouses Cleared as Suspects in Nancy Case",
+          "num_articles": 9,
+          "density": 203.04088616365905
+        },
+        {
+          "id": 260217003,
+          "date": "2026-02-17",
+          "title": "Nine moms competing for Team USA at Milan Cortina Olympics",
+          "summary": "Nine moms competing for Team USA at Milan Cortina Olympics | Questions Swirl Around Russian Figure Skater in Her Olympic Debut | Megan Oldham takes gold in women's big air",
+          "num_articles": 19,
+          "density": 153.21068372372807
+        },
+        {
+          "id": 260217021,
+          "date": "2026-02-17",
+          "title": "My Dad Left Me $550k in an IRA, How Should",
+          "summary": "My Dad Left Me $550k in an IRA, How Should I Structure My Withdrawals? | Taking Your First RMD This Year? It Could Lead to an Unwanted Surprise. | Ask an Advisor: When Can I Stop Saving for Retirement? I'm a 39-Year-Old Military Officer With $722K in Savings",
+          "num_articles": 15,
+          "density": 108.38742847165048
+        },
+        {
+          "id": 260218079,
+          "date": "2026-02-18",
+          "title": "Chipmaker Analog Devices Posts Accelerating Sales, Earnings Growth",
+          "summary": "Chipmaker Analog Devices Posts Accelerating Sales, Earnings Growth | Wingstop Jumps on Better-Than-Expected Same-Store Sales, Profit | Earnings live: Wingstop stock surges on Q4 earnings beat, Garmin spikes, Analog Devices rises",
+          "num_articles": 8,
+          "density": 312.64033822019076
+        },
+        {
+          "id": 260218027,
+          "date": "2026-02-18",
+          "title": "Paramount Skydance Corporation (PSKY) in Talks with Pentwater Founder Matthew",
+          "summary": "Paramount Skydance Corporation (PSKY) in Talks with Pentwater Founder Matthew Halbower Over Potential Warner Bros. Discovery Board Seat | Hollywood\u2019s $108bn cliffhanger | Warner Bros battle would be so much simpler in the UK",
+          "num_articles": 6,
+          "density": 180.6280523589876
+        },
+        {
+          "id": 260218032,
+          "date": "2026-02-18",
+          "title": "Under pressure from Trump, Venezuela's new president has aces up",
+          "summary": "Under pressure from Trump, Venezuela's new president has aces up her sleeve | CNBC Daily Open: Iran-U.S. talks and Ukraine-Russia negotiations in focus \u2014 progress in sight? | Exclusive: Rubio's secret squeeze on Raul Castro's Cuba",
+          "num_articles": 10,
+          "density": 160.49079850762467
+        },
+        {
+          "id": 260219069,
+          "date": "2026-02-19",
+          "title": "Indian Fund Beating 93% of Peers Bets on Internet Value",
+          "summary": "Indian Fund Beating 93% of Peers Bets on Internet Value Stocks | Before you buy the software and Big Tech dips, take a closer look at this overseas stock market | India Fund Houses Rush to List as Retail Money Pours In",
+          "num_articles": 21,
+          "density": 202.1325367050247
+        },
+        {
+          "id": 260219048,
+          "date": "2026-02-19",
+          "title": "Trump\u2019s tariffs exert heavy burden on midsize US companies",
+          "summary": "Trump\u2019s tariffs exert heavy burden on midsize US companies | US steel rebounds under Trump\u2019s tariffs, climbing 3% in 2025. But as prices rise, are the steel barons the real winners? | Small furniture retailers face existential tariff threat, regardless of Supreme Court ruling",
+          "num_articles": 8,
+          "density": 143.05188679619758
+        },
+        {
+          "id": 260220001,
+          "date": "2026-02-20",
+          "title": "Trump: Habe als Pr\u00e4sident das Recht, Z\u00f6lle zu verh\u00e4ngen",
+          "summary": "Trump: Habe als Pr\u00e4sident das Recht, Z\u00f6lle zu verh\u00e4ngen | Urteil zu Strafz\u00f6llen: Oberstes Gericht erkl\u00e4rt Trumps Z\u00f6lle f\u00fcr rechtswidrig \u2013 was das jetzt bedeutet | Trump-Gerichtsniederlage im Streit um Z\u00f6lle",
+          "num_articles": 9,
+          "density": 877.1124850049906
+        },
+        {
+          "id": 260220068,
+          "date": "2026-02-20",
+          "title": "Booking Holdings Inc. Q4 2025 Earnings Call Summary",
+          "summary": "Booking Holdings Inc. Q4 2025 Earnings Call Summary | TechnipFMC plc Q4 2025 Earnings Call Summary | N-able, Inc. Q4 2025 Earnings Call Summary",
+          "num_articles": 18,
+          "density": 614.6894686348111
+        },
+        {
+          "id": 260220025,
+          "date": "2026-02-20",
+          "title": "Malaysia January Exports Post Fastest Growth in Over Three Years",
+          "summary": "Malaysia January Exports Post Fastest Growth in Over Three Years | UK Retail Sales Rose More Than Expected in January | UK Posts Biggest Ever Budget Surplus as Tax Revenue Surges",
+          "num_articles": 14,
+          "density": 205.60252693956016
+        },
+        {
+          "id": 260220032,
+          "date": "2026-02-20",
+          "title": "Venezuela Amnesty Law Passes But Excludes Many in Opposition",
+          "summary": "Venezuela Amnesty Law Passes But Excludes Many in Opposition | Venezuela\u2019s legislature approves amnesty bill, paving the way for the release of hundreds detained for political reasons | Venezuela Passes Amnesty Bill Denounced by Some as \u2018Unjust\u2019",
+          "num_articles": 15,
+          "density": 137.88257563826343
+        },
+        {
+          "id": 260222009,
+          "date": "2026-02-22",
+          "title": "Good News: Olympians get surprise visits from their childhood mentors",
+          "summary": "Good News: Olympians get surprise visits from their childhood mentors | Niederl\u00e4ndische Eisschnelll\u00e4uferin: Erst Gold, dann Silber: Olympiasiegerin erh\u00e4lt Heiratsantrag | Botschaft aus dem Spital: Vonn kn\u00f6pft sich Kritiker vor: \u00abEs war nicht alles umsonst\u00bb",
+          "num_articles": 24,
+          "density": 142.79477865473942
+        },
+        {
+          "id": 260222008,
+          "date": "2026-02-22",
+          "title": "Eishockey-Gipfeltreffen gegen USA: \u00abIhr k\u00f6nnt uns nicht unser Spiel nehmen\u00bb:",
+          "summary": "Eishockey-Gipfeltreffen gegen USA: \u00abIhr k\u00f6nnt uns nicht unser Spiel nehmen\u00bb: Kanada bangt um seine Seele | Kanada \u2013 USA: Gigantenduell um Gold: Setzt sich wieder Kanada durch? | U.S.-Canada Tensions Turn Olympic Hockey Final Into a \u2018Grudge Match\u2019",
+          "num_articles": 8,
+          "density": 142.0559591683902
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 75,
+          "num_clusters": 5
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 20,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 86,
+          "num_clusters": 4
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 24,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 29,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 56,
+          "num_clusters": 4
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 32,
+          "num_clusters": 2
+        }
+      ]
+    },
+    {
+      "theme": 2,
+      "title": "Market Trends and Investment Insights",
+      "summary": "Recent developments in the financial markets highlight a mix of investment opportunities and challenges. Analysts are closely monitoring stocks like Amazon and Fair Isaac, while companies like Leidos and Blue Owl face setbacks. Additionally, geopolitical events and corporate negotiations are influencing market dynamics, prompting investors to reassess their strategies.",
+      "relevancy_score": 5825.673910596471,
+      "sum_density": 4471.044168395703,
+      "median_centroid_distance": 0.7674724395856081,
+      "num_clusters": 16,
+      "total_articles": 250,
+      "clusters": [
+        {
+          "id": 260215002,
+          "date": "2026-02-15",
+          "title": "Is Coterra Energy Inc. (CTRA) One of the High-Growth, Low",
+          "summary": "Is Coterra Energy Inc. (CTRA) One of the High-Growth, Low P/E Stocks to Buy Now? | Corning (GLW) Is Still Buyable, Says Jim Cramer | Eaton (ETN) is Still Buyable, Says Jim Cramer",
+          "num_articles": 14,
+          "density": 218.36644726590623
+        },
+        {
+          "id": 260215029,
+          "date": "2026-02-15",
+          "title": "Badrans #Korrigendum: L\u00fcgen ohne Widerspruch \u2013 was die Halbierungsinitiative b\u00f6sartig",
+          "summary": "Badrans #Korrigendum: L\u00fcgen ohne Widerspruch \u2013 was die Halbierungsinitiative b\u00f6sartig macht | Wirtschaftsanwalt Ralph Wollburg: Der Spielmacher der Dax-Chefs | Emissionshandel in Europa: Was hinter dem Preissturz der CO2-Zertifikate steckt",
+          "num_articles": 6,
+          "density": 64.64456254558475
+        },
+        {
+          "id": 260216046,
+          "date": "2026-02-16",
+          "title": "Fidelity Jumps into Growing CLO ETF Market",
+          "summary": "Fidelity Jumps into Growing CLO ETF Market | Buy 2 Vanguard Index Funds to Beat the S&P 500 in the Next Decade, According to Wall Street Analysts | 2 Dividend Stocks to Hold for the Next 20 Years",
+          "num_articles": 36,
+          "density": 256.8098629309354
+        },
+        {
+          "id": 260217004,
+          "date": "2026-02-17",
+          "title": "Warner Bros rejects Paramount's revised offer, but gives studio a",
+          "summary": "Warner Bros rejects Paramount's revised offer, but gives studio a week to negotiate better deal | Warner Bros gives Paramount a week to make \u2018best and final\u2019 offer | Warner Bros throws ownership battle open by giving Paramount a week to up its offer",
+          "num_articles": 16,
+          "density": 928.1999826403082
+        },
+        {
+          "id": 260217058,
+          "date": "2026-02-17",
+          "title": "Leidos misses quarterly revenue estimates on government shutdown impact",
+          "summary": "Leidos misses quarterly revenue estimates on government shutdown impact | Grupo Aerom\u00e9xico, S.A.B. de C.V. Q4 2025 Earnings Call Summary | Allegion (ALLE) Q4 2025 Earnings Call Transcript",
+          "num_articles": 26,
+          "density": 618.6521390080832
+        },
+        {
+          "id": 260217070,
+          "date": "2026-02-17",
+          "title": "Where Will Nvidia Be in 1 Year?",
+          "summary": "Where Will Nvidia Be in 1 Year? | Ormat signs 150 MW geothermal power deal with NV Energy to supply Google in Nevada | Google Secures Ormat Geothermal for US Data Centers",
+          "num_articles": 13,
+          "density": 146.41005577595212
+        },
+        {
+          "id": 260219014,
+          "date": "2026-02-19",
+          "title": "Blue Owl permanently halts redemptions at fund aimed at retail",
+          "summary": "Blue Owl permanently halts redemptions at fund aimed at retail investors | Fund that has frozen withdrawals since November now says it\u2019ll never open up | Blue Owl curbs investor liquidity following asset sale, shares down 3% in pre-market trading",
+          "num_articles": 9,
+          "density": 716.6368286677789
+        },
+        {
+          "id": 260219070,
+          "date": "2026-02-19",
+          "title": "Why Wall Street Is Watching Manhattan Associates, Inc. (MANH)\u2019 Cloud",
+          "summary": "Why Wall Street Is Watching Manhattan Associates, Inc. (MANH)\u2019 Cloud Expansion Closely | Are Wall Street Analysts Bullish on Westinghouse Air Brake Stock? | Is Wall Street Bullish or Bearish on Expand Energy Stock?",
+          "num_articles": 21,
+          "density": 384.4347435129706
+        },
+        {
+          "id": 260219025,
+          "date": "2026-02-19",
+          "title": "King Charles Issues Statement After Arrest of His Brother, Andrew",
+          "summary": "King Charles Issues Statement After Arrest of His Brother, Andrew Mountbatten-Windsor | The former prince has been living on King Charles III\u2019s private Sandringham Estate. | Arrest of Andrew, brother of King Charles, shakes the House of Windsor",
+          "num_articles": 5,
+          "density": 183.09610329087027
+        },
+        {
+          "id": 260219021,
+          "date": "2026-02-19",
+          "title": "Epstein Waged a Years-Long Quest to Meet Putin and Talk",
+          "summary": "Epstein Waged a Years-Long Quest to Meet Putin and Talk Finance | Goldman Lawyer, Epstein Conferred on Secret Service Prostitution Scandal | Mandelson-founded advisory firm Global Counsel to go into administration",
+          "num_articles": 6,
+          "density": 135.81569894160594
+        },
+        {
+          "id": 260219076,
+          "date": "2026-02-19",
+          "title": "Where is Simply Good Foods Company (SMPL) Headed According to",
+          "summary": "Where is Simply Good Foods Company (SMPL) Headed According to the Street? | Where is Merck & Co., Inc. (MRK) Headed According to the Street? | Where is Pfizer Inc. (PFE) Headed?",
+          "num_articles": 8,
+          "density": 122.22661802875795
+        },
+        {
+          "id": 260220072,
+          "date": "2026-02-20",
+          "title": "BofA Reinstates Fair Isaac (FICO) Coverage With Buy Rating, $1,900",
+          "summary": "BofA Reinstates Fair Isaac (FICO) Coverage With Buy Rating, $1,900 PT Citing Strong Pricing Power | Needham Lowers DraftKings (DKNG) PT to $35 Following Earnings Miss, Reduced Revenue Outlook | DA Davidson Downgrades LiveRamp (RAMP) PT Despite Strong FQ3 Earning, Buy Rating",
+          "num_articles": 38,
+          "density": 298.20124493049565
+        },
+        {
+          "id": 260220048,
+          "date": "2026-02-20",
+          "title": "Reasons to worry about America\u2019s investment position with the rest",
+          "summary": "Reasons to worry about America\u2019s investment position with the rest of the world | The fund manager pay gap persists | Investors pour record sums into European stocks",
+          "num_articles": 23,
+          "density": 117.50702099228492
+        },
+        {
+          "id": 260221027,
+          "date": "2026-02-21",
+          "title": "United Parks & Resorts Stock Down 35% This Past Year,",
+          "summary": "United Parks & Resorts Stock Down 35% This Past Year, and One Fund Just Sold Its Entire $14 Million Stake | Altice France liabilities add around \u20ac1bn to debt pile | Billionaire Philippe Laffont Just Dumped CoreWeave and Opened a Position in a Stock That Soared Nearly 50% in January.",
+          "num_articles": 8,
+          "density": 93.70012439580836
+        },
+        {
+          "id": 260222025,
+          "date": "2026-02-22",
+          "title": "Analysts Maintain Buy on Amazon (AMZN) Despite 18% Share Depreciation",
+          "summary": "Analysts Maintain Buy on Amazon (AMZN) Despite 18% Share Depreciation | Mizuho Reiterates Outperform on Alphabet (GOOGL) With $410 Target Price | Needham Raises Micron (MU) Target to $450, Maintains Buy Rating",
+          "num_articles": 14,
+          "density": 110.03840357040625
+        },
+        {
+          "id": 260222024,
+          "date": "2026-02-22",
+          "title": "UGI VP Sells 12840 Shares After Net Income Falls in",
+          "summary": "UGI VP Sells 12840 Shares After Net Income Falls in Q1 Earnings | IREN (IREN) Added to MSCI USA Index, Boosting Exposure to Institutional Investors | Irenic Dumps Most Papa John's Shares",
+          "num_articles": 7,
+          "density": 76.30433189795497
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 20,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 36,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 55,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 49,
+          "num_clusters": 5
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 61,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 8,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 21,
+          "num_clusters": 2
+        }
+      ]
+    },
+    {
+      "theme": 4,
+      "title": "Media, Politics, and Economic Challenges",
+      "summary": "Recent developments highlight the intertwining of media and politics in Israel, with concerns over media alignment with government figures. Meanwhile, economic challenges are evident in various sectors, from fiscal stimulus in Germany to wage growth in Australia, impacting inflation and investment strategies. Additionally, stock market sentiments fluctuate as companies like AppLovin and Palantir navigate changing valuations.",
+      "relevancy_score": 5060.046013972833,
+      "sum_density": 4378.774594503545,
+      "median_centroid_distance": 0.8653626038996439,
+      "num_clusters": 15,
+      "total_articles": 167,
+      "clusters": [
+        {
+          "id": 260215006,
+          "date": "2026-02-15",
+          "title": "The TV deal bringing Israel\u2019s media closer to Netanyahu",
+          "summary": "The TV deal bringing Israel\u2019s media closer to Netanyahu | Billionaires and Bibi: the TV deal raising fears in Israel | Eleven killed in Israeli strikes on Gaza, rescuers say",
+          "num_articles": 15,
+          "density": 105.85017932622118
+        },
+        {
+          "id": 260215004,
+          "date": "2026-02-15",
+          "title": "Bei Maduros Festnahme half erstmals die KI dem US-Milit\u00e4r. Durfte",
+          "summary": "Bei Maduros Festnahme half erstmals die KI dem US-Milit\u00e4r. Durfte Claude in den Krieg? | Auf der Plattform Rentahuman f\u00fchren Menschen aus, was Algorithmen befehlen. Das ist kein Scherz, sondern ein Vorgeschmack auf die Zukunft | Startups verschieben die Grenzen der Fortpflanzungsmedizin. Ihr neuestes Ziel: genetisch ver\u00e4nderte Babys",
+          "num_articles": 14,
+          "density": 88.91844095311194
+        },
+        {
+          "id": 260215032,
+          "date": "2026-02-15",
+          "title": "Jefferies Cuts AppLovin Corporation (APP)\u2019s Price Target To $700 From",
+          "summary": "Jefferies Cuts AppLovin Corporation (APP)\u2019s Price Target To $700 From $860, Keeps Buy Rating | Klaviyo (KVYO) Reports Impressive Earnings But Jeffries Downgrades Target Price To $29 | ING Groep (ING) Target Raised to \u20ac28 on Earnings and Cost Cuts",
+          "num_articles": 5,
+          "density": 81.50277715088723
+        },
+        {
+          "id": 260216026,
+          "date": "2026-02-16",
+          "title": "Motorola Solutions Stock: Is Wall Street Bullish or Bearish?",
+          "summary": "Motorola Solutions Stock: Is Wall Street Bullish or Bearish? | Is Wall Street Bullish or Bearish on UnitedHealth Stock? | NetApp Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "num_articles": 10,
+          "density": 449.01139530672185
+        },
+        {
+          "id": 260216011,
+          "date": "2026-02-16",
+          "title": "Weshalb immer noch so viele Investoren den USA die Treue",
+          "summary": "Weshalb immer noch so viele Investoren den USA die Treue halten | Ex-US-Pr\u00e4sident \u00fcber Ausserirdische: \u00abSie sind echt\u00bb: Obama schreckt Alien-Fans auf \u2013 und krebst dann zur\u00fcck | Die leiseste Ortschaft der USA: Hier landet Trump im Funkloch",
+          "num_articles": 5,
+          "density": 56.9465281420975
+        },
+        {
+          "id": 260217066,
+          "date": "2026-02-17",
+          "title": "Vertex Pharmaceuticals Stock: Is Wall Street Bullish or Bearish?",
+          "summary": "Vertex Pharmaceuticals Stock: Is Wall Street Bullish or Bearish? | Prudential Financial Stock: Is Wall Street Bullish or Bearish? | Pinnacle West Capital Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "num_articles": 13,
+          "density": 442.9824132125486
+        },
+        {
+          "id": 260218075,
+          "date": "2026-02-18",
+          "title": "Australia\u2019s High Wage Growth Reinforce RBA\u2019s Inflation Challenge",
+          "summary": "Australia\u2019s High Wage Growth Reinforce RBA\u2019s Inflation Challenge | Treasury yields nudged higher as investors await Fed meeting minutes | Bond Traders Look to Data, Fed Minutes to Gauge Scope for Easing",
+          "num_articles": 16,
+          "density": 341.677826761989
+        },
+        {
+          "id": 260218050,
+          "date": "2026-02-18",
+          "title": "Germany\u2019s long-awaited fiscal stimulus is finally here \u2014 but there\u2019s",
+          "summary": "Germany\u2019s long-awaited fiscal stimulus is finally here \u2014 but there\u2019s a defense spending catch, says Goldman Sachs | Bundesrechnung schliesst um eine Milliarde besser ab als budgetiert | Der Bund verbucht einen \u00dcberschuss f\u00fcr 2025 \u2013 doch mit dem derzeitigen Kurs des Parlaments sind ohne Steuererh\u00f6hung Milliardendefizite programmiert",
+          "num_articles": 8,
+          "density": 232.68156251921755
+        },
+        {
+          "id": 260218063,
+          "date": "2026-02-18",
+          "title": "Is Palantir Stock a Buy Now?",
+          "summary": "Is Palantir Stock a Buy Now? | Palantir Stock Upgraded to Buy. AI Heavyweight Is \u2018In a Category of One,\u2019 Says Analyst. | Palantir CEO Alex Karp has his head in the clouds",
+          "num_articles": 12,
+          "density": 221.6458778418323
+        },
+        {
+          "id": 260218021,
+          "date": "2026-02-18",
+          "title": "Gov. JB Pritzker to propose suspending tax incentives for data",
+          "summary": "Gov. JB Pritzker to propose suspending tax incentives for data centers in Illinois | Pritzker Pitches Illinois Social-Media Fee as Deficit Looms | Household energy bills in Great Britain forecast to fall by \u00a3117 a year",
+          "num_articles": 9,
+          "density": 172.86583030521675
+        },
+        {
+          "id": 260218041,
+          "date": "2026-02-18",
+          "title": "Belgium summons U.S. ambassador over post accusing officials of antisemitism",
+          "summary": "Belgium summons U.S. ambassador over post accusing officials of antisemitism | Europe\u2019s creaking carbon tax is in need of repair | Global divisions over energy policy widening, IEA chief says",
+          "num_articles": 21,
+          "density": 115.90207506906202
+        },
+        {
+          "id": 260219003,
+          "date": "2026-02-19",
+          "title": "Klarna Reports Loss as More Money Set Aside for Souring",
+          "summary": "Klarna Reports Loss as More Money Set Aside for Souring Loans | Klarna swings to $26mn loss in fourth quarter | Klarna Swings to Loss Despite Jump in Revenue",
+          "num_articles": 7,
+          "density": 1645.8141543871595
+        },
+        {
+          "id": 260219019,
+          "date": "2026-02-19",
+          "title": "INTERVIEW - \u00abEin Untersuchungsteam Schweiz-Frankreich k\u00f6nnte die Vergangenheit von Jacques",
+          "summary": "INTERVIEW - \u00abEin Untersuchungsteam Schweiz-Frankreich k\u00f6nnte die Vergangenheit von Jacques Moretti beleuchten\u00bb, sagt Filippo Lombardi zur Brandkatastrophe von Crans-Montana | F\u00f6deralismus vs. Sicherheit: F\u00fcr Basler Polizisten ist Br\u00fcssel n\u00e4her als Liestal \u2013 das soll sich mit \u00abPolap\u00bb \u00e4ndern | Polizei-Datenaustausch: F\u00fcr Basler Polizisten ist Br\u00fcssel n\u00e4her als Liestal \u2013 das soll sich mit \u00abPolap\u00bb \u00e4ndern",
+          "num_articles": 9,
+          "density": 176.86334888981455
+        },
+        {
+          "id": 260220007,
+          "date": "2026-02-20",
+          "title": "Austrian climber found guilty after girlfriend froze to death on",
+          "summary": "Austrian climber found guilty after girlfriend froze to death on mountain | Climber convicted of manslaughter after leaving girlfriend on Austria\u2019s highest peak to get help | Six victims of California avalanche identified as part of close-knit friend group",
+          "num_articles": 14,
+          "density": 161.8280226889701
+        },
+        {
+          "id": 260221021,
+          "date": "2026-02-21",
+          "title": "SRF-\u00abArena\u00bb zur Halbierungsinitiative: \u00abHerr Brotz, ich gratuliere Ihnen zu dieser",
+          "summary": "SRF-\u00abArena\u00bb zur Halbierungsinitiative: \u00abHerr Brotz, ich gratuliere Ihnen zu dieser Leistung\u00bb | Volksabstimmung am 8. M\u00e4rz: Soll das Budget der SRG halbiert werden? | In eigener Sache: Warum das Z\u00fcrcher Obergericht unsere Recherche sch\u00fctzt",
+          "num_articles": 9,
+          "density": 84.28416194869423
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 34,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 15,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 13,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 66,
+          "num_clusters": 5
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 16,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 14,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 9,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 8,
+      "title": "Financial Trends and Market Insights",
+      "summary": "This theme explores various financial trends impacting markets and personal finance. From mortgage rates and tax strategies to shifts in gold prices and oil futures, experts weigh in on the evolving landscape. Additionally, significant funding rounds in AI and the implications of regulatory changes highlight the dynamic nature of today's economy.",
+      "relevancy_score": 3243.225783247964,
+      "sum_density": 2758.1196639248496,
+      "median_centroid_distance": 0.8504248079708778,
+      "num_clusters": 18,
+      "total_articles": 175,
+      "clusters": [
+        {
+          "id": 260215009,
+          "date": "2026-02-15",
+          "title": "Where mortgage rates are headed in 2026, according to 21",
+          "summary": "Where mortgage rates are headed in 2026, according to 21 experts | HELOC and home equity loan rates Sunday, February 15, 2026: How to get your best rate offer | Best money market account rates today, February 15, 2026 (best account provides 4.01% APY)",
+          "num_articles": 7,
+          "density": 193.72587916355428
+        },
+        {
+          "id": 260215021,
+          "date": "2026-02-15",
+          "title": "India Curbs Loans Extended to Brokers in Blow to Trading",
+          "summary": "India Curbs Loans Extended to Brokers in Blow to Trading Volumes | Investors reluctant to \u2018buy the dip\u2019 after AI scares | Global week ahead: Markets brace for more AI noise and 'scare trading'",
+          "num_articles": 20,
+          "density": 179.35331294916497
+        },
+        {
+          "id": 260215016,
+          "date": "2026-02-15",
+          "title": "Net Worth Averages by Age: How Do You Compare to",
+          "summary": "Net Worth Averages by Age: How Do You Compare to Your Peers? | At what age should you get a colonoscopy? | 44% of single Americans feel net worth impacts their love life. 3 most attractive financial traits to lock down a date",
+          "num_articles": 7,
+          "density": 111.01157507379214
+        },
+        {
+          "id": 260215012,
+          "date": "2026-02-15",
+          "title": "An abduction, a Bitcoin demand and a TV icon -",
+          "summary": "An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US | Alleged cat burglar arrested after priceless Egyptian artefacts taken in Queensland museum heist | Ancient Egyptian artifacts stolen from Australian museum",
+          "num_articles": 10,
+          "density": 109.22059973650175
+        },
+        {
+          "id": 260215020,
+          "date": "2026-02-15",
+          "title": "No fuel, no tourists, no cash - this was the",
+          "summary": "No fuel, no tourists, no cash - this was the week the Cuban crisis got real | \u2018We are not afraid\u2019: Venezuelans celebrate first glimpse of reform | Mexico\u2019s Cuba Obsession Puts Its President in a Bind With Trump",
+          "num_articles": 9,
+          "density": 67.67168428139854
+        },
+        {
+          "id": 260216053,
+          "date": "2026-02-16",
+          "title": "ByteDance to curb AI video app after Disney legal threat",
+          "summary": "ByteDance to curb AI video app after Disney legal threat | Much ado about nothing? TikTok's U.S. usership steadies after turbulent start | ByteDance says it will add safeguards to Seedance 2.0 following Hollywood backlash",
+          "num_articles": 7,
+          "density": 87.77228599970346
+        },
+        {
+          "id": 260216006,
+          "date": "2026-02-16",
+          "title": "How Can We Avoid Capital Gains Taxes After Selling Our",
+          "summary": "How Can We Avoid Capital Gains Taxes After Selling Our Home for a $550K Gain? | Why IRS tax refunds after death can take over a year and what to do | I Asked ChatGPT How Much You Would Save If You Moved to a Zero-Tax State \u2014 Here\u2019s the Math",
+          "num_articles": 7,
+          "density": 70.70128379842363
+        },
+        {
+          "id": 260217033,
+          "date": "2026-02-17",
+          "title": "Gold prices tumble below $5,000 as China holidays dent support",
+          "summary": "Gold prices tumble below $5,000  as China holidays dent support | Gold Falls Below $5,000 in Thin Trade | Monero Unaffected By Delistings: XMR Activity Stays Strong Despite Global Restrictions",
+          "num_articles": 10,
+          "density": 209.2067585165108
+        },
+        {
+          "id": 260218033,
+          "date": "2026-02-18",
+          "title": "Crude-oil futures rise on U.S.-Iran tensions",
+          "summary": "Crude-oil futures rise on U.S.-Iran tensions | Venezuela\u2019s Oil Output Can Grow 30%-40% This Year, US Says | Oil jumps more than 2% after Vance says Iran ignored key U.S. demand, military strikes on the table",
+          "num_articles": 9,
+          "density": 207.43162806729697
+        },
+        {
+          "id": 260218059,
+          "date": "2026-02-18",
+          "title": "Bain, UBS Lend $382 Million to Quadrant\u2019s Aidacare in Australia",
+          "summary": "Bain, UBS Lend $382 Million to Quadrant\u2019s Aidacare in Australia | Novo Holdings, ACS Back \u20ac220 Million Quantonation Ventures\u00a0Fund | British scientist raising $1bn for new AI lab in Europe\u2019s biggest seed round",
+          "num_articles": 15,
+          "density": 130.3691792639236
+        },
+        {
+          "id": 260219064,
+          "date": "2026-02-19",
+          "title": "ServiceNow Warns of Software Sector Shakeup During AI Transition",
+          "summary": "ServiceNow Warns of Software Sector Shakeup During AI Transition | AI Can Deliver Major Power Savings, Says Schneider CEO Blum | Odd Lots: How to Survive the SaaSpocalypse (Podcast)",
+          "num_articles": 7,
+          "density": 197.86534550345436
+        },
+        {
+          "id": 260219065,
+          "date": "2026-02-19",
+          "title": "OpenAI Funding on Track to Top $100 Billion in Latest",
+          "summary": "OpenAI Funding on Track to Top $100 Billion in Latest Round | Abu Dhabi's MGX Seeks to Build $100 Billion AI Empire | Tech Tycoon Pays \u2018Natural Dividend\u2019 to Preserve African Island",
+          "num_articles": 15,
+          "density": 168.997181255045
+        },
+        {
+          "id": 260219029,
+          "date": "2026-02-19",
+          "title": "Best money market account rates today, February 19, 2026 (earn",
+          "summary": "Best money market account rates today, February 19, 2026 (earn up to 4.01% APY) | Best high-yield savings interest rates today, February 19, 2026 (top account pays 4% APY) | Mortgage and refinance interest rates today, February 19, 2026: Refinancing applications on the rise",
+          "num_articles": 8,
+          "density": 163.50966219817997
+        },
+        {
+          "id": 260220060,
+          "date": "2026-02-20",
+          "title": "Trump says tax refunds are 'substantially greater than ever before.'",
+          "summary": "Trump says tax refunds are 'substantially greater than ever before.' What filers can expect | Before the ruling, companies raced to secure refunds from tariffs they had paid. | Supreme Court Trump tariffs ruling could put U.S. on hook for $175 billion in refunds, estimate says",
+          "num_articles": 12,
+          "density": 508.19555863381345
+        },
+        {
+          "id": 260220018,
+          "date": "2026-02-20",
+          "title": "Dollar Set for Best Week Since October as Fed Rate-Cut",
+          "summary": "Dollar Set for Best Week Since October as Fed Rate-Cut Bets Fade | Seoul Apartment Prices Gain Further Ahead of BOK Meeting | Dollar Getting a Boost From Safe-Haven Bids, Rabobank Says",
+          "num_articles": 8,
+          "density": 121.09036147581077
+        },
+        {
+          "id": 260222022,
+          "date": "2026-02-22",
+          "title": "China Defies Global \u2018AI Scare Trade\u2019 as Investors Chase Winners",
+          "summary": "China Defies Global \u2018AI Scare Trade\u2019 as Investors Chase Winners | India\u2019s AI ambitions hit limits at global summit | This meeting is being recorded. Did you know?",
+          "num_articles": 11,
+          "density": 110.5339058089368
+        },
+        {
+          "id": 260222018,
+          "date": "2026-02-22",
+          "title": "All nine bodies of skiers killed in California avalanche recovered",
+          "summary": "All nine bodies of skiers killed in California avalanche recovered | 2 Skiers Are Injured After Being Buried in Utah Avalanche | At Least 15 Have Died on Tahoe-Area Slopes This Year",
+          "num_articles": 6,
+          "density": 67.64864934755711
+        },
+        {
+          "id": 260222013,
+          "date": "2026-02-22",
+          "title": "Reinhold Messner im Interview: \u00abHaben meine Kinder heute nicht Verantwortung",
+          "summary": "Reinhold Messner im Interview: \u00abHaben meine Kinder heute nicht Verantwortung f\u00fcr mich, wie ich sie einst f\u00fcr sie hatte?\u00bb | Vertrauter von Jacques Moretti: \u00abMeine Freunde verleugne ich nicht\u00a0\u2013 auch wenn Schreckliches passiert ist\u00bb | Restaurants im Test: Im Casa Linda gibts Tapas und spanische Herzlichkeit",
+          "num_articles": 7,
+          "density": 53.81481285178187
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 53,
+          "num_clusters": 5
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 14,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 10,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 24,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 30,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 20,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 24,
+          "num_clusters": 3
+        }
+      ]
+    },
+    {
+      "theme": 11,
+      "title": "Financial Trends and Market Movements",
+      "summary": "Recent developments in the financial sector highlight significant market movements and investment opportunities. From the stability of a single fund amidst volatility to the potential of tech stocks and medical acquisitions, investors are navigating a complex landscape. Additionally, discussions around job classifications and the role of cryptocurrencies in illicit activities further shape the economic narrative.",
+      "relevancy_score": 2889.200870599496,
+      "sum_density": 2084.3829592193533,
+      "median_centroid_distance": 0.7214392673178357,
+      "num_clusters": 7,
+      "total_articles": 140,
+      "clusters": [
+        {
+          "id": 260215014,
+          "date": "2026-02-15",
+          "title": "Der stabilste Dampfer im st\u00fcrmischen Finanzmeer: Ein einziger Fonds bringt",
+          "summary": "Der stabilste Dampfer im st\u00fcrmischen Finanzmeer: Ein einziger Fonds bringt maximale Risikostreuung | 3 Hyper-Growth Tech Stocks to Buy in 2026 | Eve Holding (EVEX) is One of the Best Penny Stocks That Will Skyrocket",
+          "num_articles": 38,
+          "density": 296.6914480226732
+        },
+        {
+          "id": 260215033,
+          "date": "2026-02-15",
+          "title": "Strategy Inc (MSTR) a Strong Buy, Analysts Forecast 193% Upside",
+          "summary": "Strategy Inc (MSTR) a Strong Buy, Analysts Forecast 193% Upside | Canaccord Genuity Reiterates Buy on IREN Limited (IREN) | Northland Securities Reiterates Outperform Rating on Ondas Inc. (ONDS)",
+          "num_articles": 10,
+          "density": 115.4289062020245
+        },
+        {
+          "id": 260216017,
+          "date": "2026-02-16",
+          "title": "Crypto is playing a growing role in human trafficking networks,",
+          "summary": "Crypto is playing a growing role in human trafficking networks, report shows | Ask an Advisor: Our Portfolio Dropped From $450K to $250K. Should We Sell Our Investments? | Bitcoin Looks for Direction After Four Straight Weekly Losses",
+          "num_articles": 18,
+          "density": 161.07660792131173
+        },
+        {
+          "id": 260217017,
+          "date": "2026-02-17",
+          "title": "Peru's Congress to debate a motion to remove interim President",
+          "summary": "Peru's Congress to debate a motion to remove interim President Jer\u00ed | Peru\u2019s Congress Removes President Jer\u00ed After Four Months in Office | Peru's Congress votes to remove interim President Jos\u00e9 Jer\u00ed",
+          "num_articles": 8,
+          "density": 633.7593916453454
+        },
+        {
+          "id": 260217075,
+          "date": "2026-02-17",
+          "title": "Danaher closes in on a nearly $10bn deal for med",
+          "summary": "Danaher closes in on a nearly $10bn deal for med tech company Masimo | Danaher closes in on nearly $10bn deal for medical device maker Masimo | VB Spine to acquire xvision Spine System from Augmedics",
+          "num_articles": 11,
+          "density": 424.3621740849509
+        },
+        {
+          "id": 260217047,
+          "date": "2026-02-17",
+          "title": "We have to stop calling some jobs \u2018low skilled\u2019",
+          "summary": "We have to stop calling some jobs \u2018low skilled\u2019 | US labour supply concerns gather force | UK Wage Growth Slowed More Than Expected in December",
+          "num_articles": 25,
+          "density": 240.7762688051503
+        },
+        {
+          "id": 260220062,
+          "date": "2026-02-20",
+          "title": "AI Bust or a Once-in-a-Decade Buying Opportunity for This Software",
+          "summary": "AI Bust or a Once-in-a-Decade Buying Opportunity for This Software Stock? | Beyond SoFi Stock: This Other Cash-Gushing Bank Stock Is Worth Your Money | VICI Properties (VICI) Among the Best Affordable Stocks Under $40",
+          "num_articles": 30,
+          "density": 212.2881625378972
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 48,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 18,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 44,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 30,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 24,
+      "title": "Global Trends in Finance and Politics",
+      "summary": "Recent developments highlight significant shifts in finance and international relations. From the rising popularity of reverse mortgages amid falling interest rates to geopolitical maneuvers by leaders like Modi and the implications of energy markets in Europe, these stories reflect the interconnectedness of economic and political landscapes. Additionally, corporate challenges and legal proceedings in South Korea underscore the complexities faced by nations and businesses alike.",
+      "relevancy_score": 2675.0414271204672,
+      "sum_density": 2247.703444414609,
+      "median_centroid_distance": 0.8402499571134254,
+      "num_clusters": 6,
+      "total_articles": 89,
+      "clusters": [
+        {
+          "id": 260216013,
+          "date": "2026-02-16",
+          "title": "Why Reverse Mortgages Are Soaring in Popularity Again",
+          "summary": "Why Reverse Mortgages Are Soaring in Popularity Again | Mortgage and refinance interest rates today, February 16, 2026: Rates fall to new lows | HELOC and home equity loan rates Monday, February 16, 2026: Likely to remain low for months",
+          "num_articles": 8,
+          "density": 145.30069267350345
+        },
+        {
+          "id": 260217050,
+          "date": "2026-02-17",
+          "title": "Modi Seizes AI Summit to Assert India\u2019s Global Ambitions After",
+          "summary": "Modi Seizes AI Summit to Assert India\u2019s Global Ambitions After Tough Year | Macron arrives in India as blockbuster fighter jet deal nears | Macron meets Modi in India as blockbuster fighter jet deal nears",
+          "num_articles": 9,
+          "density": 184.204610564838
+        },
+        {
+          "id": 260218078,
+          "date": "2026-02-18",
+          "title": "IMCD Shares Plunge After Dividend Cut, Revenue Fall",
+          "summary": "IMCD Shares Plunge After Dividend Cut, Revenue Fall | Genuine Parts to split divisions; posts quarterly loss | Mister Car Wash Is Going Private. Why Things Never Worked Out for the Stock.",
+          "num_articles": 16,
+          "density": 141.0005247399112
+        },
+        {
+          "id": 260219002,
+          "date": "2026-02-19",
+          "title": "Former South Korean president faces insurrection verdict over martial law",
+          "summary": "Former South Korean president faces insurrection verdict over martial law order | South Korea\u2019s ex-president Yoon faces verdict over failed martial law | Historischer Prozess: S\u00fcdkoreas Ex-Pr\u00e4sident Yoon droht die Todesstrafe",
+          "num_articles": 26,
+          "density": 1519.9257952229802
+        },
+        {
+          "id": 260220051,
+          "date": "2026-02-20",
+          "title": "Amazon service was taken down by AI coding bot",
+          "summary": "Amazon service was taken down by AI coding bot | OpenClaw and the privacy problem of agentic AI | Mind launches inquiry into AI and mental health after Guardian investigation",
+          "num_articles": 23,
+          "density": 178.46990908392755
+        },
+        {
+          "id": 260222007,
+          "date": "2026-02-22",
+          "title": "Greece eyes central role in Europe\u2019s post-Russia gas market",
+          "summary": "Greece eyes central role in Europe\u2019s post-Russia gas market | Hungary to Block EU Sanctions Package Over Druzhba Standoff | Hungary threatens to block EU\u2019s 20th Russia sanctions package over halted oil shipments",
+          "num_articles": 7,
+          "density": 78.80191212944843
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 8,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 9,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 16,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 26,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 23,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 7,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 30,
+      "title": "Rich Trump Man Mar",
+      "summary": "Merger Involving $61 Billion of Debt to Help India Credit Merger Involving $61 Billion of Debt to Help India Credit Market | India Seeks to Revive Private Investment in High-Speed Roads | AirAsia Chief Says Brand Unit Is Nearing Nasdaq Backdoor Listing I would scream in my sleep: Women from Syria's Alawite",
+      "relevancy_score": 1995.9746644262716,
+      "sum_density": 2031.7874328028042,
+      "median_centroid_distance": 1.0179424964729333,
+      "num_clusters": 5,
+      "total_articles": 55,
+      "clusters": [
+        {
+          "id": 260216022,
+          "date": "2026-02-16",
+          "title": "Merger Involving $61 Billion of Debt to Help India Credit",
+          "summary": "Merger Involving $61 Billion of Debt to Help India Credit Market | India Seeks to Revive Private Investment in High-Speed Roads | AirAsia Chief Says Brand Unit Is Nearing Nasdaq Backdoor Listing",
+          "num_articles": 11,
+          "density": 92.43278310667178
+        },
+        {
+          "id": 260218040,
+          "date": "2026-02-18",
+          "title": "I would scream in my sleep: Women from Syria's Alawite",
+          "summary": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape | Canavan says Pauline Hanson \u2018not fit to lead\u2019 amid backlash against \u2018reprehensible\u2019 Muslim comments | Woman in Syrian detention camp banned from returning to Australia for up to two years",
+          "num_articles": 7,
+          "density": 160.89523838738685
+        },
+        {
+          "id": 260219022,
+          "date": "2026-02-19",
+          "title": "Wohnungsnot in Z\u00fcrich: Studierende ziehen weg: \u00abDie WG-Suche in Z\u00fcrich",
+          "summary": "Wohnungsnot in Z\u00fcrich: Studierende ziehen weg: \u00abDie WG-Suche in Z\u00fcrich ist eine skurrile Welt f\u00fcr sich\u00bb | Bauboom in Regensdorf: An der Grenze zur Stadt Z\u00fcrich entstehen weitere 283 Wohnungen | Areal Neugut: In Rickenbach sind 72 neue Wohnungen geplant",
+          "num_articles": 18,
+          "density": 157.7335839073264
+        },
+        {
+          "id": 260221023,
+          "date": "2026-02-21",
+          "title": "Trump vows 10% global tariff after Supreme Court ruling",
+          "summary": "Trump vows 10% global tariff after Supreme Court ruling | Trump Says He Will Increase Global Tariffs to 15% From 10% | Trump Boosts New Tariff Rate to 15% a Day After Announcing 10%",
+          "num_articles": 9,
+          "density": 902.6709777464838
+        },
+        {
+          "id": 260222001,
+          "date": "2026-02-22",
+          "title": "Law enforcement shoots and kills man at Mar-a-Lago, Secret Service",
+          "summary": "Law enforcement shoots and kills man at Mar-a-Lago, Secret Service says | US Secret Service Says Armed Man Shot, Killed at Mar-a-Lago | Armed man shot and killed after entering Trump\u2019s Mar-a-Lago residence, Secret Service says",
+          "num_articles": 10,
+          "density": 718.0548496549355
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 11,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 7,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 18,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 9,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 10,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 43,
+      "title": "Political and Economic Developments in Europe",
+      "summary": "Recent events highlight significant political and economic shifts in Europe. The EU is moderating its stance towards Viktor Orb\u00e1n ahead of elections, while Denmark faces economic challenges due to a downturn in the pharmaceutical sector. Additionally, financial discussions are emerging around personal wealth management amid broader economic concerns.",
+      "relevancy_score": 1992.1970888608848,
+      "sum_density": 1754.2055009474388,
+      "median_centroid_distance": 0.8805381308686046,
+      "num_clusters": 4,
+      "total_articles": 70,
+      "clusters": [
+        {
+          "id": 260216041,
+          "date": "2026-02-16",
+          "title": "EU tones down criticism of Viktor Orb\u00e1n ahead of election",
+          "summary": "EU tones down criticism of Viktor Orb\u00e1n ahead of election | EU tones down criticism of Orb\u00e1n ahead of election | Rubio meets Orb\u00e1n in Budapest as US and Hungary are to sign a civilian nuclear pact",
+          "num_articles": 15,
+          "density": 455.8235254871741
+        },
+        {
+          "id": 260220027,
+          "date": "2026-02-20",
+          "title": "Danish Economy Nearly Stalls as Pharma Slump Offsets Wider Gains",
+          "summary": "Danish Economy Nearly Stalls as Pharma Slump Offsets Wider Gains | Trump Bemoans Shutdown Impact on GDP Before Fourth Quarter Read | US GDP Grows 1.4%, Missing Forecasts on Shutdown, Trade Impact",
+          "num_articles": 9,
+          "density": 649.6348502401171
+        },
+        {
+          "id": 260220045,
+          "date": "2026-02-20",
+          "title": "Prothena Q4 Earnings Call Highlights",
+          "summary": "Prothena Q4 Earnings Call Highlights | CRH Q4 Earnings Call Highlights | Cenovus Energy Q4 Earnings Call Highlights",
+          "num_articles": 16,
+          "density": 507.714277889321
+        },
+        {
+          "id": 260221013,
+          "date": "2026-02-21",
+          "title": "At 73, She's 'Sitting On Millions,' But Her Financially Irresponsible",
+          "summary": "At 73, She's 'Sitting On Millions,' But Her Financially Irresponsible Boyfriend Needs Help. Should She Bail Him Out Or Protect Her Fortune? | Saving vs. investing: How are they different and which is better? | High tax rates overshadow bonus season in the City",
+          "num_articles": 30,
+          "density": 141.0328473308265
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 15,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 25,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 30,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 16,
+      "title": "Kkr India Scale Earnings",
+      "summary": "KKR & Co. Inc. (KKR) Builds Scale Across Markets and KKR & Co. Inc. (KKR) Builds Scale Across Markets and Sectors | Rithm Capital Corp. (RITM) Positioned for Growth on Strategic Investments | Patria Investments Limited (PAX) Advances Credit Strategy, Global Acquisitions, and AUM Growth Immunic secures $400m fund to support commercial-stage development",
+      "relevancy_score": 1953.8162660708274,
+      "sum_density": 1384.6610220861537,
+      "median_centroid_distance": 0.7086956159243883,
+      "num_clusters": 7,
+      "total_articles": 142,
+      "clusters": [
+        {
+          "id": 260215035,
+          "date": "2026-02-15",
+          "title": "KKR & Co. Inc. (KKR) Builds Scale Across Markets and",
+          "summary": "KKR & Co. Inc. (KKR) Builds Scale Across Markets and Sectors | Rithm Capital Corp. (RITM) Positioned for Growth on Strategic Investments | Patria Investments Limited (PAX) Advances Credit Strategy, Global Acquisitions, and AUM Growth",
+          "num_articles": 6,
+          "density": 65.59555806493165
+        },
+        {
+          "id": 260216025,
+          "date": "2026-02-16",
+          "title": "Immunic secures $400m fund to support commercial-stage development",
+          "summary": "Immunic secures $400m fund to support commercial-stage development | Here\u2019s What Makes AptarGroup (ATR) a Long-Term Holding | Vital Farms (VITL) Faces Short-Term Pressure Despite Continued Demand for Ethical Food Products",
+          "num_articles": 20,
+          "density": 195.36975236737032
+        },
+        {
+          "id": 260218081,
+          "date": "2026-02-18",
+          "title": "Bulls Warming Up to India Small Caps as Earnings Improve",
+          "summary": "Bulls Warming Up to India Small Caps as Earnings Improve | European Stocks Rally to Fresh Record, Bolstered by Earnings | FTSE 100 Live: Index powers to new highs as inflation falls, defence in demand",
+          "num_articles": 26,
+          "density": 223.62300297505928
+        },
+        {
+          "id": 260219028,
+          "date": "2026-02-19",
+          "title": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into",
+          "summary": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place | US to withdraw troops from Syria as tensions mount with Iran | Kim Jong Un Shows Off Missile Launchers as Party Congress Nears",
+          "num_articles": 38,
+          "density": 493.8617383624619
+        },
+        {
+          "id": 260219030,
+          "date": "2026-02-19",
+          "title": "\u2018The world feels unpredictable\u2019: I\u2019m 56. My husband is 64.",
+          "summary": "\u2018The world feels unpredictable\u2019: I\u2019m 56. My husband is 64. Our mortgage costs $17K a month. Do we pay it off? | IRS Grants Tech, Pharma a Tax Break Boost From Trump Deduction | What Does the Average Retiree Really Get From Social Security?",
+          "num_articles": 28,
+          "density": 153.97352347822695
+        },
+        {
+          "id": 260221033,
+          "date": "2026-02-21",
+          "title": "Wikipedia Founder Sees No Threat From Musk\u2019s Grokipedia",
+          "summary": "Wikipedia Founder Sees No Threat From Musk\u2019s Grokipedia | Bill Ackman makes bold AI bet | Alle investieren in ETF, weil sie bequem und g\u00fcnstig sind. Doch das k\u00f6nnte den n\u00e4chsten B\u00f6rsencrash ausl\u00f6sen",
+          "num_articles": 15,
+          "density": 174.53754761901706
+        },
+        {
+          "id": 260221034,
+          "date": "2026-02-21",
+          "title": "How photography helped the British empire classify India",
+          "summary": "How photography helped the British empire classify India | \u2018Slow this thing down\u2019: Sanders warns US has no clue about speed and scale of coming AI revolution | How tech turned against women",
+          "num_articles": 9,
+          "density": 77.69989921908646
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 6,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 20,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 26,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 66,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 24,
+          "num_clusters": 2
+        }
+      ]
+    },
+    {
+      "theme": 7,
+      "title": "Current Global Events and Economic Trends",
+      "summary": "This theme explores significant global events, including the ongoing conflict in Ukraine and its impact on individuals, as well as economic shifts such as Wall Street's selloffs and the implications of tariffs imposed by Trump. Additionally, it highlights the evolving status of US Treasuries and the effects of emerging industries like cryptocurrency on the economy.",
+      "relevancy_score": 1858.21595703831,
+      "sum_density": 1377.3668399489006,
+      "median_centroid_distance": 0.7412307674637539,
+      "num_clusters": 6,
+      "total_articles": 78,
+      "clusters": [
+        {
+          "id": 260215022,
+          "date": "2026-02-15",
+          "title": "Fahnenfl\u00fcchtige Ukrainer erz\u00e4hlen: \u00abIn der Armee l\u00f6st du dich auf",
+          "summary": "Fahnenfl\u00fcchtige Ukrainer erz\u00e4hlen: \u00abIn der Armee l\u00f6st du dich auf als Mensch. Alles zerbricht an der Kolossalit\u00e4t des Krieges\u00bb | Russian Port, Fuel Tanks Hit in Drone Attack on Black Sea Region | Fluchtversuch aus der Ukraine: Ex-Energieminister Herman Haluschtschenko festgenommen",
+          "num_articles": 13,
+          "density": 89.250166012717
+        },
+        {
+          "id": 260215008,
+          "date": "2026-02-15",
+          "title": "The age of the disposable leader",
+          "summary": "The age of the disposable leader | 'First feline' Larry marks 15 years as Britain's political top cat | India\u2019s pollution is becoming an economic roadblock",
+          "num_articles": 14,
+          "density": 82.68810516357493
+        },
+        {
+          "id": 260216055,
+          "date": "2026-02-16",
+          "title": "What\u2019s with Wall Street\u2019s weird selloffs?",
+          "summary": "What\u2019s with Wall Street\u2019s weird selloffs? | The Big Tech losers as AI fears wipe billions of dollars off valuations | Musk, Cook Warn of Memory Chip Crisis as Demand From AI Grows",
+          "num_articles": 11,
+          "density": 166.0685679069664
+        },
+        {
+          "id": 260217076,
+          "date": "2026-02-17",
+          "title": "Imperial Petroleum (IMPP) Authorizes $10 Million Share Repurchase Program",
+          "summary": "Imperial Petroleum (IMPP) Authorizes $10 Million Share Repurchase Program | Obesity Drug Boom Buoys Ireland\u2019s Pharma Production for Export | Kinder Morgan (KMI) Director Buys 3,000 Shares in Insider Transaction",
+          "num_articles": 19,
+          "density": 150.33682522080252
+        },
+        {
+          "id": 260220054,
+          "date": "2026-02-20",
+          "title": "Trump to Impose 10% Global Tariff After Supreme Court Defeat",
+          "summary": "Trump to Impose 10% Global Tariff After Supreme Court Defeat | Trump vows to impose 10% global tariff after Supreme Court rules sweeping duties are illegal | Trump to Impose 10% Global Tariff After SCOTUS Ruling",
+          "num_articles": 8,
+          "density": 781.0278543965379
+        },
+        {
+          "id": 260221003,
+          "date": "2026-02-21",
+          "title": "The haven asset status of US Treasuries is eroding",
+          "summary": "The haven asset status of US Treasuries is eroding | 114 Millionen Tonnen CO2 pro Jahr verursacht Bitcoin | Bitcoin Price Flashes Biggest Warning of 2026: Is a Drop to $56,000 Coming?",
+          "num_articles": 13,
+          "density": 107.99532124830203
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 27,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 11,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 19,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 8,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 13,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 29,
+      "title": "Trump Release Files Aliens",
+      "summary": "Iranian protester's family forced to 'pay for the bullet that Iranian protester's family forced to 'pay for the bullet that killed their son' | Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison | North Korea opens new housing district for families of Ukraine war dead Wildfires rage in Oklahoma as thousands urged to evacuate a",
+      "relevancy_score": 1855.4973231442145,
+      "sum_density": 1522.5452580395513,
+      "median_centroid_distance": 0.8205591239870599,
+      "num_clusters": 6,
+      "total_articles": 95,
+      "clusters": [
+        {
+          "id": 260216021,
+          "date": "2026-02-16",
+          "title": "Iranian protester's family forced to 'pay for the bullet that",
+          "summary": "Iranian protester's family forced to 'pay for the bullet that killed their son' | Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison | North Korea opens new housing district for families of Ukraine war dead",
+          "num_articles": 19,
+          "density": 102.62937661365471
+        },
+        {
+          "id": 260218077,
+          "date": "2026-02-18",
+          "title": "Wildfires rage in Oklahoma as thousands urged to evacuate a",
+          "summary": "Wildfires rage in Oklahoma as thousands urged to evacuate a small city | Canaccord Calls Doximity, Inc. (DOCS)\u2019s Post-Earnings Selloff an Overreaction And Sees Long-Term Upside | Masimo (MASI) Climbs 34% on $9.9-Billion Danaher Merger",
+          "num_articles": 26,
+          "density": 167.89478673475045
+        },
+        {
+          "id": 260220030,
+          "date": "2026-02-20",
+          "title": "Trump Says US Will Release Files Related to Aliens and",
+          "summary": "Trump Says US Will Release Files Related to Aliens and UFOs | Trump directs US government to prepare release of files on aliens and UFOs | Trump says he's directing the Pentagon to release files related to UFOs and aliens",
+          "num_articles": 9,
+          "density": 809.1207394085919
+        },
+        {
+          "id": 260220076,
+          "date": "2026-02-20",
+          "title": "DoorDash Delivers Fresh Profits with a Soggy Forecast",
+          "summary": "DoorDash Delivers Fresh Profits with a Soggy Forecast | Comcast Corporation (CMCSA) Reports Positive Results From Quantum Computing Trial | Carpenter Technology (CRS) Reports Strong Q2 2026 Earnings, Specialty Alloys Lead Growth",
+          "num_articles": 15,
+          "density": 174.38651033411787
+        },
+        {
+          "id": 260220021,
+          "date": "2026-02-20",
+          "title": "Ex-Google Engineers Charged With Stealing Phone Processor Tech",
+          "summary": "Ex-Google Engineers Charged With Stealing Phone Processor Tech | Antwort auf m\u00f6glichen US-Angriff: Iran droht mit \u00abentschiedener\u00bb Reaktion | KI-Video zeigt Gaza-Vision: Trumps \u00abFriedensrat\u00bb verspricht Geld und Soldaten \u2013 viele Fragen bleiben offen",
+          "num_articles": 12,
+          "density": 149.3407376261611
+        },
+        {
+          "id": 260221015,
+          "date": "2026-02-21",
+          "title": "Plug Power (PLUG) Confronts Legal Challenge Amid Hydrogen Expansion Plans",
+          "summary": "Plug Power (PLUG) Confronts Legal Challenge Amid Hydrogen Expansion Plans | EVgo (EVGO) Builds Momentum in Clean Transportation Solutions | Amprius (AMPX) Expands Role in Advanced Energy Storage Solutions",
+          "num_articles": 14,
+          "density": 119.17310732227524
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 19,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 26,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 36,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 14,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 3,
+      "title": "Market Movements and Strategic Shifts",
+      "summary": "Recent financial analyses highlight significant movements in major companies like Amazon and JPMorgan Chase, indicating potential shifts in market dynamics. Additionally, the Supreme Court's ruling on tariffs and bullish sentiments from investment firms on various corporations suggest a complex landscape for investors. As companies adapt to changing economic conditions, the implications for the stock market and industry competition are profound.",
+      "relevancy_score": 1812.3706346794133,
+      "sum_density": 1660.8428472464086,
+      "median_centroid_distance": 0.9163924947063556,
+      "num_clusters": 7,
+      "total_articles": 72,
+      "clusters": [
+        {
+          "id": 260215027,
+          "date": "2026-02-15",
+          "title": "Amazon Stock Just Did Something Last Seen in 2006. It",
+          "summary": "Amazon Stock Just Did Something Last Seen in 2006. It Signals a Big Move in the Next Year if History Repeats Itself. | Will Micron Be the Next Nvidia -- or the Next Intel? | Is Amazon Stock Going to $260?",
+          "num_articles": 20,
+          "density": 164.31764787578757
+        },
+        {
+          "id": 260215003,
+          "date": "2026-02-15",
+          "title": "How to get to TV heaven? From Belfast",
+          "summary": "How to get to TV heaven? From Belfast | An Activist Investor Emerges to Try Thwarting Netflix's Proposed Acquisition of Warner Bros.' Assets. What Will Happen Next? | Streaming Wars: 1 Netflix Rival Dominating the Industry",
+          "num_articles": 6,
+          "density": 116.9577098071377
+        },
+        {
+          "id": 260218087,
+          "date": "2026-02-18",
+          "title": "Medifast Q4 Earnings Call Highlights",
+          "summary": "Medifast Q4 Earnings Call Highlights | RB Global Q4 Earnings Call Highlights | Axcelis Technologies Q4 Earnings Call Highlights",
+          "num_articles": 16,
+          "density": 643.3284294138392
+        },
+        {
+          "id": 260218051,
+          "date": "2026-02-18",
+          "title": "KOMMENTAR - \u00abSwiss milk first\u00bb? Nein, die Milchbauern sind auf",
+          "summary": "KOMMENTAR - \u00abSwiss milk first\u00bb? Nein, die Milchbauern sind auf offene Grenzen angewiesen | ERKL\u00c4RT - Muss es denn gleich Vollkorn sein? Auch Ruchbrot ist besser f\u00fcr die Gesundheit als Weissbrot | N\u00e4he zum Job ist wichtiger als g\u00fcnstig wohnen",
+          "num_articles": 7,
+          "density": 205.13871810555435
+        },
+        {
+          "id": 260218056,
+          "date": "2026-02-18",
+          "title": "JPMorgan Chase plans branch opening spree as peers bet on",
+          "summary": "JPMorgan Chase plans branch opening spree as peers bet on in-person banking | JPMorgan to launch branch opening spree as peers bet on in-person banking | JPMorgan plans branch opening spree as peers bet on in-person banking",
+          "num_articles": 6,
+          "density": 159.824141387782
+        },
+        {
+          "id": 260220059,
+          "date": "2026-02-20",
+          "title": "US Supreme Court delivers ruling on Trump\u2019s tariffs",
+          "summary": "US Supreme Court delivers ruling on Trump\u2019s tariffs | Supreme Court strikes down most of Trump's tariffs | What are tariffs?",
+          "num_articles": 6,
+          "density": 240.8467732303798
+        },
+        {
+          "id": 260221019,
+          "date": "2026-02-21",
+          "title": "TD Cowen is Bullish on Adaptive Biotechnologies Corporation (ADPT)",
+          "summary": "TD Cowen is Bullish on Adaptive Biotechnologies Corporation (ADPT) | B. Riley is Bullish on Century Aluminum Company (CENX) | TD Cowen is Bullish on BrightSpring Health Services, Inc. (BTSG)",
+          "num_articles": 11,
+          "density": 130.42942742592797
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 26,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 29,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 6,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 11,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 73,
+      "title": "Recent Developments in Business and Health",
+      "summary": "This theme highlights significant events in the business and health sectors, including soaring CEO compensation in banking, Nvidia's market influence, and a major Supreme Court ruling on tariffs. Additionally, it addresses advancements in healthcare with the introduction of a long-acting HIV drug in Zimbabwe, showcasing the intersection of economic and health-related news.",
+      "relevancy_score": 1589.889993154415,
+      "sum_density": 1253.3041323406035,
+      "median_centroid_distance": 0.7882961322713846,
+      "num_clusters": 5,
+      "total_articles": 73,
+      "clusters": [
+        {
+          "id": 260217067,
+          "date": "2026-02-17",
+          "title": "Bank CEOs party like it\u2019s 2007",
+          "summary": "Bank CEOs party like it\u2019s 2007 | Big Bank CEO Compensation Passes 2006, 2021 Records | Big Bank CEO pay surged by $45 million in 2025",
+          "num_articles": 6,
+          "density": 103.51099748455653
+        },
+        {
+          "id": 260218080,
+          "date": "2026-02-18",
+          "title": "Nvidia\u2019s new Meta deal may not be great news for",
+          "summary": "Nvidia\u2019s new Meta deal may not be great news for these other tech stocks | Nvidia leads the US stock market higher | Prediction: Nvidia Stock Will Drop After Feb. 25",
+          "num_articles": 17,
+          "density": 280.9061980214418
+        },
+        {
+          "id": 260219006,
+          "date": "2026-02-19",
+          "title": "JetBlue engine failure on takeoff at Newark airport disrupts air",
+          "summary": "JetBlue engine failure on takeoff at Newark airport disrupts air traffic | Airbus targets 870 deliveries this year, below estimates as Boeing competition tightens | Airbus says engine shortages are holding back ramp-up plans",
+          "num_articles": 17,
+          "density": 177.37312536440874
+        },
+        {
+          "id": 260220056,
+          "date": "2026-02-20",
+          "title": "Trump\u2019s Global Tariffs Struck Down by US Supreme Court",
+          "summary": "Trump\u2019s Global Tariffs Struck Down by US Supreme Court | US Supreme Court Strikes Down Trump\u2019s Global Tariffs | Trump's Global Tariffs Struck Down by Supreme Court",
+          "num_articles": 18,
+          "density": 569.3469319443291
+        },
+        {
+          "id": 260222021,
+          "date": "2026-02-22",
+          "title": "A long-acting HIV drug arrives in Zimbabwe for some at",
+          "summary": "A long-acting HIV drug arrives in Zimbabwe for some at highest risk | Here's Walmart's $1 trillion secret | $955 saved for retirement? Millions are in that boat.",
+          "num_articles": 15,
+          "density": 122.1668795258672
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-17",
+          "total_articles": 6,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 17,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 17,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 18,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 15,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 101,
+      "title": "Earnings Calls and Media Controversies",
+      "summary": "Recent earnings calls from companies like eBay and Clearwater Paper highlight financial performance amidst a competitive landscape. Meanwhile, Netflix faces scrutiny over its board composition and strategic decisions, reflecting broader tensions in the media industry and political arena.",
+      "relevancy_score": 1585.1163280021808,
+      "sum_density": 1378.3204493787646,
+      "median_centroid_distance": 0.869538989050694,
+      "num_clusters": 3,
+      "total_articles": 68,
+      "clusters": [
+        {
+          "id": 260219045,
+          "date": "2026-02-19",
+          "title": "eBay (EBAY) Q4 2025 Earnings Call Transcript",
+          "summary": "eBay (EBAY) Q4 2025 Earnings Call Transcript | Clearwater Paper Corporation Q4 2025 Earnings Call Summary | Jack in the Box Inc. Q1 2026 Earnings Call Summary",
+          "num_articles": 42,
+          "density": 1129.8416819150186
+        },
+        {
+          "id": 260220012,
+          "date": "2026-02-20",
+          "title": "She Bet on K-Pop. Netflix Got Its Biggest Movie Ever",
+          "summary": "She Bet on K-Pop. Netflix Got Its Biggest Movie Ever | A dash of \u2018schmuck insurance\u2019 could help Netflix win Warner Bros | Paramount\u2019s $108bn bid for Warner Bros clears US antitrust hurdle",
+          "num_articles": 6,
+          "density": 147.01111709532384
+        },
+        {
+          "id": 260222011,
+          "date": "2026-02-22",
+          "title": "Trump demands Netflix remove former Obama official from board",
+          "summary": "Trump demands Netflix remove former Obama official from board | Trump Pulls Support From House Republican Who Opposed Tariffs | Lindsey Graham frets that Trump's advisers oppose Iran strike",
+          "num_articles": 20,
+          "density": 101.46765036842196
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-19",
+          "total_articles": 42,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 6,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 20,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 44,
+      "title": "Market Reactions to Global Tensions",
+      "summary": "Recent news highlights the impact of geopolitical tensions on financial markets and commodities. Rising US-Iran tensions have led to stock market declines and surging oil prices, while soaring gold prices are prompting vaults to adjust their insurance strategies. Additionally, various political and social issues, including trade tariffs and humanitarian crises, are shaping the economic landscape.",
+      "relevancy_score": 1551.3936786591994,
+      "sum_density": 1190.1187453362081,
+      "median_centroid_distance": 0.7671287834334705,
+      "num_clusters": 6,
+      "total_articles": 116,
+      "clusters": [
+        {
+          "id": 260216042,
+          "date": "2026-02-16",
+          "title": "Soaring gold price forces vaults to reduce insurance cover",
+          "summary": "Soaring gold price forces vaults to reduce insurance cover | Urban Outfitters' Co-President Sells 18,666 Shares for $1.4 Million | Snap Chief Technology Officer Sells 2 million Shares as Stock Reaches All-Time Low",
+          "num_articles": 24,
+          "density": 189.47253531894216
+        },
+        {
+          "id": 260218067,
+          "date": "2026-02-18",
+          "title": "Why Warsh Won\u2019t Be Remembered for Cutting Rates",
+          "summary": "Why Warsh Won\u2019t Be Remembered for Cutting Rates | Winners, Losers Emerge as Trump\u2019s Tariffs Take Hold | Tariffs Caused Just Small China Trade Diversion, ECB Study Shows",
+          "num_articles": 11,
+          "density": 138.9954468989444
+        },
+        {
+          "id": 260219009,
+          "date": "2026-02-19",
+          "title": "Australian presenter apologises for drinking before slurred Olympics report",
+          "summary": "Australian presenter apologises for drinking before slurred Olympics report | Premiere f\u00fcr Skibergsteiger: Mit Fake-Rucksack und Schweizer Topfavoriten: Das ist das neuste Olympia-Spektakel | These Olympians Excel on Two Types of Tracks",
+          "num_articles": 17,
+          "density": 128.9884916990651
+        },
+        {
+          "id": 260220022,
+          "date": "2026-02-20",
+          "title": "As Trump Weighs Iran Strikes, He Declines to Make Clear",
+          "summary": "As Trump Weighs Iran Strikes, He Declines to Make Clear Case for Why | Congress risks major loss to Trump over war powers vote on Iran | Trump's foreign policy dilemma laid bare by Iran tensions",
+          "num_articles": 25,
+          "density": 391.5199358358835
+        },
+        {
+          "id": 260220019,
+          "date": "2026-02-20",
+          "title": "Stocks Slide as Oil Jumps on Rising US-Iran Tensions |",
+          "summary": "Stocks Slide as Oil Jumps on Rising US-Iran Tensions | The Close 2/19/2026 | Asia-Pacific markets mostly fall, tracking Wall Street losses, as U.S.-Iran tensions take hold | US-Iran Jitters Shake Asian Markets, Oil Surges | The Asia Trade 2/20/2026",
+          "num_articles": 28,
+          "density": 269.0404346657427
+        },
+        {
+          "id": 260221016,
+          "date": "2026-02-21",
+          "title": "As conditions in Roj camp deteriorate, Australia urged to accept",
+          "summary": "As conditions in Roj camp deteriorate, Australia urged to accept citizens trapped in Syria | Man charged with hate crime after allegedly ramming gates of Brisbane synagogue with ute | Survivor of financial abuse invited to advise ministers after Guardian report",
+          "num_articles": 11,
+          "density": 72.10190091763013
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 24,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 11,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 17,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 53,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 11,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 66,
+      "title": "Economic Challenges and Sports Triumphs",
+      "summary": "Recent news highlights significant economic challenges faced by businesses, including rising tariff costs and corporate restructuring, while also showcasing a remarkable sports achievement with Alysa Liu winning gold in figure skating. The juxtaposition of corporate struggles and athletic success reflects the diverse landscape of current events, from financial pressures to inspiring victories.",
+      "relevancy_score": 1536.4479417363375,
+      "sum_density": 1238.7073055291153,
+      "median_centroid_distance": 0.8062149532572214,
+      "num_clusters": 6,
+      "total_articles": 90,
+      "clusters": [
+        {
+          "id": 260217049,
+          "date": "2026-02-17",
+          "title": "Jung, qualifiziert, weniger als 1000 Franken Monatslohn: Warum die UBS",
+          "summary": "Jung, qualifiziert, weniger als 1000 Franken Monatslohn: Warum die UBS und andere Firmen immer mehr Stellen nach Indien verlagern | Giftstoffe in der Babymilch, 16 000 Stellen weg, die Aktie im Keller \u2013 das sind die vielen Baustellen des neuen F\u00fchrungsduos von Nestl\u00e9 | Migros Bank schreibt 2025 leicht tieferen Gewinn",
+          "num_articles": 15,
+          "density": 145.44481804462427
+        },
+        {
+          "id": 260218071,
+          "date": "2026-02-18",
+          "title": "Data breach at fintech giant Figure affects close to a",
+          "summary": "Data breach at fintech giant Figure affects close to a million customers | Figma Gains on Strong Growth Outlook That Eases AI Fears | Figma\u2019s Earnings Offer Hope for a Turnaround After Revenue Surprise",
+          "num_articles": 6,
+          "density": 257.2281202099063
+        },
+        {
+          "id": 260219079,
+          "date": "2026-02-19",
+          "title": "TD Cowen Lowers Aurora Innovation (AUR) PT, Cites Soft 2026",
+          "summary": "TD Cowen Lowers Aurora Innovation (AUR) PT, Cites Soft 2026 Guidance Despite Growth Inflection Outlook | Cognex CFO Sees Demand Improving but Wants More Proof of a Durable Upcycle at Conference | Rising Energy Demand Will Lift This Stock",
+          "num_articles": 14,
+          "density": 139.88495130019325
+        },
+        {
+          "id": 260220061,
+          "date": "2026-02-20",
+          "title": "Tariff Costs Triple for Midsized US Businesses: JPMorgan",
+          "summary": "Tariff Costs Triple for Midsized US Businesses: JPMorgan | Supreme Court\u2019s tariff ruling has mixed implications for the Fed | A rare 'no' for Trump, but not necessarily an end to tariffs",
+          "num_articles": 19,
+          "density": 437.0325015965706
+        },
+        {
+          "id": 260220010,
+          "date": "2026-02-20",
+          "title": "Alysa Liu wins gold in women's figure skating",
+          "summary": "Alysa Liu wins gold in women's figure skating | Amber Glenn finishes just off podium after high-scoring free skate | Figure skater Alysa Liu wins gold for Team USA, ending 20-year medal drought",
+          "num_articles": 21,
+          "density": 158.81437419082138
+        },
+        {
+          "id": 260222019,
+          "date": "2026-02-22",
+          "title": "Government\u2019s response to Maccabi Tel Aviv fan ban was \u2018clumsy\u2019,",
+          "summary": "Government\u2019s response to Maccabi Tel Aviv fan ban was \u2018clumsy\u2019, say MPs | Australia\u2019s Albanese Rejects Immigration Cuts as Far-Right Grows | Labour battles disaffection in crucial three-way by-election battle",
+          "num_articles": 15,
+          "density": 100.30254018699948
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-17",
+          "total_articles": 15,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 6,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 14,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 40,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 15,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 13,
+      "title": "Market Trends and Financial Insights",
+      "summary": "Recent market analyses reveal a mixed landscape, with China's stock performance faltering amidst disappointing earnings forecasts, while XRP sees a surge due to Ripple's leadership in crypto regulation. Additionally, discussions around funding cuts in the US and shifts in private credit markets highlight the evolving financial environment, as investors weigh opportunities in tech stocks like Nvidia.",
+      "relevancy_score": 1513.9792295358066,
+      "sum_density": 1230.133790253466,
+      "median_centroid_distance": 0.8125169528452719,
+      "num_clusters": 7,
+      "total_articles": 79,
+      "clusters": [
+        {
+          "id": 260215019,
+          "date": "2026-02-15",
+          "title": "China\u2019s Stock Bull Run Falters With Earnings Set to Underwhelm",
+          "summary": "China\u2019s Stock Bull Run Falters With Earnings Set to Underwhelm | Franc\u2019s relentless rise alarms Swiss companies | Trade or trap? Japan investors bet on Takaichi after landslide",
+          "num_articles": 20,
+          "density": 136.04469839539905
+        },
+        {
+          "id": 260215026,
+          "date": "2026-02-15",
+          "title": "XRP Price Surges as Ripple CEO Takes Role Influencing Crypto",
+          "summary": "XRP Price Surges as Ripple CEO Takes Role Influencing Crypto Regulation | Clinical Research Provider Icon Stock Crashes On Accounting Probe | Circle Internet (CRCL) Faces Regulatory and Crypto Volatility, Says Morgan Stanley",
+          "num_articles": 6,
+          "density": 55.04429382214082
+        },
+        {
+          "id": 260216037,
+          "date": "2026-02-16",
+          "title": "US scientists gear up for next battle over funding cuts",
+          "summary": "US scientists gear up for next battle over funding cuts | Germany vows more defence tech funding after backlash over tanks | UK overseas aid cuts to outstrip those of Trump administration",
+          "num_articles": 7,
+          "density": 105.85852022652573
+        },
+        {
+          "id": 260217062,
+          "date": "2026-02-17",
+          "title": "BTIG Stays Positive on Palo Alto Networks (PANW) as Channel",
+          "summary": "BTIG Stays Positive on Palo Alto Networks (PANW) as Channel Checks Improve | Palo Alto Earnings Due. How Will Deal Blitz Impact Guidance? | Palo Alto Networks (PANW) Expands Cloud-Delivered Security Platform to Address Hybrid Complexity",
+          "num_articles": 9,
+          "density": 333.03494201861935
+        },
+        {
+          "id": 260219008,
+          "date": "2026-02-19",
+          "title": "Figure skater Alysa Liu looks to break medal drought for",
+          "summary": "Figure skater Alysa Liu looks to break medal drought for women of Team USA | Alysa Liu Is Skating Again, Her Way This Time | Alysa Liu leads the 'Blade Angels' quest for gold",
+          "num_articles": 13,
+          "density": 118.8982000620704
+        },
+        {
+          "id": 260220004,
+          "date": "2026-02-20",
+          "title": "Blue Owl Sold Private Loans to Pension Giants and Own",
+          "summary": "Blue Owl Sold Private Loans to Pension Giants and Own Insurer | Private credit\u2019s Breit moment | 'Canary in the coal mine': Blue Owl liquidity curbs fuel fears about private credit bubble",
+          "num_articles": 14,
+          "density": 319.1432694368222
+        },
+        {
+          "id": 260221030,
+          "date": "2026-02-21",
+          "title": "Should You Buy Nvidia Stock Before Earnings?",
+          "summary": "Should You Buy Nvidia Stock Before Earnings? | Nvidia Stock Is Interesting, But Here's What I'd Buy Instead | Billionaire Israel Englander Sells Nvidia Stock and Buys an AI Stock Up 2,000% Since Early 2023",
+          "num_articles": 10,
+          "density": 162.1098662918885
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 26,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 7,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 9,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 13,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 14,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 10,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 25,
+      "title": "Vandalism, Economic Policies, and AI Innovations",
+      "summary": "Recent events highlight a range of significant issues, from vandalism affecting transportation in Switzerland to economic policies in New Zealand and the UK. Additionally, the tech sector is witnessing a surge in AI-driven innovations, with companies like Palo Alto Networks and AMD projecting substantial revenue growth. Investors are also eyeing promising stocks and REITs for long-term gains.",
+      "relevancy_score": 1512.2043030930865,
+      "sum_density": 1327.951535292442,
+      "median_centroid_distance": 0.8781561675074122,
+      "num_clusters": 5,
+      "total_articles": 62,
+      "clusters": [
+        {
+          "id": 260216014,
+          "date": "2026-02-16",
+          "title": "SBB vermutet Vandalismus: Brand im Bahnhof Lausanne f\u00fchrt zu erheblichen",
+          "summary": "SBB vermutet Vandalismus: Brand im Bahnhof Lausanne f\u00fchrt zu erheblichen Einschr\u00e4nkungen | Zugstrecke zwischen Lausanne und Prilly-Malley gesperrt \u2013 SBB spricht von Vandalismus | Polizei vermutet Verletzte bei Zugentleisung in Goppenstein VS",
+          "num_articles": 16,
+          "density": 205.2701841420607
+        },
+        {
+          "id": 260218022,
+          "date": "2026-02-18",
+          "title": "New Zealand Holds Key Rate, Sees Policy Staying Accommodative",
+          "summary": "New Zealand Holds Key Rate, Sees Policy Staying Accommodative | Black Earners Expand Share of South Africa\u2019s Top Income Bracket | UK Inflation Cools to 3% in January",
+          "num_articles": 19,
+          "density": 424.316421711486
+        },
+        {
+          "id": 260219063,
+          "date": "2026-02-19",
+          "title": "Palo Alto Networks CEO sees AI as demand driver, not",
+          "summary": "Palo Alto Networks CEO sees AI as demand driver, not a threat | Figma jumps as AI push boosts software design spending | Booking slashes customer service costs with AI, CFO says",
+          "num_articles": 8,
+          "density": 196.80184697848532
+        },
+        {
+          "id": 260220064,
+          "date": "2026-02-20",
+          "title": "Benchmark Sees Advanced Micro Devices (AMD) Generating Tens of Billions",
+          "summary": "Benchmark Sees Advanced Micro Devices (AMD) Generating Tens of Billions in AI Revenue by 2027 | Open AI droht zur gr\u00f6ssten Geldvernichtungsmaschine der Finanzgeschichte zu werden | Alphabet Inc.\u2019s (GOOG) Generative AI Capex to Drive Up to $23B in Cloud Revenue, Says UBS",
+          "num_articles": 7,
+          "density": 297.28891170904825
+        },
+        {
+          "id": 260221036,
+          "date": "2026-02-21",
+          "title": "2 Monster Stocks to Hold for the Next 5 Years",
+          "summary": "2 Monster Stocks to Hold for the Next 5 Years | 2 Stocks Under $30 to Buy in 2026 | 3 REITs Every Investor Should Know About",
+          "num_articles": 12,
+          "density": 204.27417075136185
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-16",
+          "total_articles": 16,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-18",
+          "total_articles": 19,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-19",
+          "total_articles": 8,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 7,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 12,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 81,
+      "title": "Current Events and Market Trends",
+      "summary": "Recent discussions around healthcare accessibility highlight FDA chief Marty Makary's stance on over-the-counter medications. Meanwhile, the Supreme Court's recent rulings have significant implications for former President Trump's policies. In the financial sector, commodities like copper and cocoa are experiencing notable market fluctuations, while the S&P 500's performance raises questions about investment strategies.",
+      "relevancy_score": 1421.7670916221628,
+      "sum_density": 1267.5162326039551,
+      "median_centroid_distance": 0.8915076457127621,
+      "num_clusters": 5,
+      "total_articles": 54,
+      "clusters": [
+        {
+          "id": 260218008,
+          "date": "2026-02-18",
+          "title": "FDA chief Marty Makary says 'everything should be over-the-counter' unless",
+          "summary": "FDA chief Marty Makary says 'everything should be over-the-counter' unless drug is unsafe or addictive | Moderna got the FDA to change its mind and review its flu vaccine after some concessions | Trump administration reverses move to block Moderna flu vaccine trial",
+          "num_articles": 9,
+          "density": 416.25541451212223
+        },
+        {
+          "id": 260220055,
+          "date": "2026-02-20",
+          "title": "The Supreme Court has delivered an overdue rebuke to Donald",
+          "summary": "The Supreme Court has delivered an overdue rebuke to Donald Trump on tariffs | Watch: Trump to speak after Supreme Court strikes down tariffs | The Supreme Court\u2019s Declaration of Independence",
+          "num_articles": 19,
+          "density": 518.4476279789476
+        },
+        {
+          "id": 260220042,
+          "date": "2026-02-20",
+          "title": "Copper Heads for Third Weekly Decline as Inventories Stack Up",
+          "summary": "Copper Heads for Third Weekly Decline as Inventories Stack Up | Cocoa Climbs, Trimming Big Weekly Drop Driven by Too Much Supply | Corn Pushing Higher on Friday, with Help from Wheat",
+          "num_articles": 6,
+          "density": 131.57877847268736
+        },
+        {
+          "id": 260221029,
+          "date": "2026-02-21",
+          "title": "Year of the equal-weighted S&P 500?",
+          "summary": "Year of the equal-weighted S&P 500? | How Much Richer Robert Kiyosaki Has Gotten Over the Last 5 Years | If You'd Invested $5,000 in the Vanguard S&P 500 ETF 15 Years Ago, Here's What You'd Have Today",
+          "num_articles": 7,
+          "density": 78.29413539898067
+        },
+        {
+          "id": 260222006,
+          "date": "2026-02-22",
+          "title": "Putin will nicht, dass seine Bev\u00f6lkerung Bilder dieses Friedhofs sieht",
+          "summary": "Putin will nicht, dass seine Bev\u00f6lkerung Bilder dieses Friedhofs sieht | Ukraine\u2019s economy shows grit amid lasting war damage | The Ex-Taxi Driver at the Center of Russia\u2019s Shadow War",
+          "num_articles": 13,
+          "density": 122.94027624121738
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-18",
+          "total_articles": 9,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-20",
+          "total_articles": 25,
+          "num_clusters": 2
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 7,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 13,
+          "num_clusters": 1
+        }
+      ]
+    },
+    {
+      "theme": 1,
+      "title": "Top Pick Latest Stock",
+      "summary": "Is Maplebear (CART) Daniel Sundheim\u2019s Top Pick? Is Maplebear\u00a0(CART) Daniel Sundheim\u2019s Top Pick? | Is Amazon.com\u00a0(AMZN) Mason Morfit\u2019s Top Pick? | Is Microsoft Corporation\u00a0(MSFT) Chase Coleman III\u2019s Top Pick? Aflac Conference: Japan Sales Momentum, Broker-Led U.S. Growth and $4.8B",
+      "relevancy_score": 1412.4304254966876,
+      "sum_density": 1194.4410284046235,
+      "median_centroid_distance": 0.8456636212609148,
+      "num_clusters": 7,
+      "total_articles": 58,
+      "clusters": [
+        {
+          "id": 260215001,
+          "date": "2026-02-15",
+          "title": "Is Maplebear (CART) Daniel Sundheim\u2019s Top Pick?",
+          "summary": "Is Maplebear\u00a0(CART) Daniel Sundheim\u2019s Top Pick? | Is Amazon.com\u00a0(AMZN) Mason Morfit\u2019s Top Pick? | Is Microsoft Corporation\u00a0(MSFT) Chase Coleman III\u2019s Top Pick?",
+          "num_articles": 12,
+          "density": 160.72317605903396
+        },
+        {
+          "id": 260216018,
+          "date": "2026-02-16",
+          "title": "Aflac Conference: Japan Sales Momentum, Broker-Led U.S. Growth and $4.8B",
+          "summary": "Aflac Conference: Japan Sales Momentum, Broker-Led U.S. Growth and $4.8B in Dividends, Buybacks | The Shoe Industry\u2019s Latest C-suite Trend? CFO Shuffling | Ally Financial Sees 2026 Margin Rebound, Targets Mid-Teens Returns at BofA Conference",
+          "num_articles": 7,
+          "density": 127.72988232401134
+        },
+        {
+          "id": 260216004,
+          "date": "2026-02-16",
+          "title": "Eni Confirms 500-Million-Barrel Oil Discovery Offshore Angola",
+          "summary": "Eni Confirms 500-Million-Barrel Oil Discovery Offshore Angola | Mali grants ten-year renewal for Barrick\u2019s Loulo project permit | Cove Kaz, Tau-Ken Samruk partner on Kazakhstan tungsten project",
+          "num_articles": 8,
+          "density": 73.51137848272327
+        },
+        {
+          "id": 260216040,
+          "date": "2026-02-16",
+          "title": "What to Know About the Homeland Security Shutdown",
+          "summary": "What to Know About the Homeland Security Shutdown | EU\u2019s deportations plan risks ICE-style enforcement, rights groups warn | Abduction of Mexican mine workers raises doubts over touted security improvements",
+          "num_articles": 11,
+          "density": 64.88672979069253
+        },
+        {
+          "id": 260217006,
+          "date": "2026-02-17",
+          "title": "Mark Zuckerberg may be the latest California tycoon to buy",
+          "summary": "Mark Zuckerberg may be the latest California tycoon to buy in Miami\u2019s \u2018Billionaire Bunker\u2019 | Palantir Is Latest Tech Firm to Move Headquarters to Miami | Palantir moving its headquarters from Denver to Miami",
+          "num_articles": 7,
+          "density": 485.821067913002
+        },
+        {
+          "id": 260221028,
+          "date": "2026-02-21",
+          "title": "US stock market volatility is \u2018really nothing\u2019 says Warren Buffett.",
+          "summary": "US stock market volatility is \u2018really nothing\u2019 says Warren Buffett. How to invest like the Oracle when others want out | Warren Buffett\u2019s Last Investment Was This Stock. Should You Follow the Oracle and Buy It Too? | Listless US Stock Market Masks Record Volatility Beneath Surface",
+          "num_articles": 5,
+          "density": 80.29734586898645
+        },
+        {
+          "id": 260222005,
+          "date": "2026-02-22",
+          "title": "Arab nations condemn US ambassador's Israel remarks",
+          "summary": "Arab nations condemn US ambassador's Israel remarks | US ambassador's Israel comments condemned by Arab and Muslim nations | France to summon US ambassador after comments about death of far-right activist",
+          "num_articles": 8,
+          "density": 201.4714479661738
+        }
+      ],
+      "timeseries": [
+        {
+          "date": "2026-02-15",
+          "total_articles": 12,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-16",
+          "total_articles": 26,
+          "num_clusters": 3
+        },
+        {
+          "date": "2026-02-17",
+          "total_articles": 7,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-21",
+          "total_articles": 5,
+          "num_clusters": 1
+        },
+        {
+          "date": "2026-02-22",
+          "total_articles": 8,
+          "num_clusters": 1
+        }
+      ]
+    }
+  ]
+}

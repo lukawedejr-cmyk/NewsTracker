@@ -1,0 +1,19 @@
+{
+  "articles_total": 8493,
+  "embedding_dimension": 1536,
+  "articles_clustered": 5803,
+  "clusters_labeled": 347,
+  "themes_count": 20,
+  "label_top_per_day": 50,
+  "date_start": "2026-02-15",
+  "date_end": "2026-02-22",
+  "report_scope": "daily",
+  "tidbits": {
+    "most_persistent_theme": "Market Trends and Investment Insights (7 days)",
+    "fastest_growing_theme": "Political and Economic Shifts Under Trump (+66 articles)",
+    "highest_density_cluster": "Klarna Reports Loss as More Money Set Aside for Souring (ID 260219003, density 1645.81)",
+    "most_diverse_source_theme": "Media, Politics, and Economic Challenges (31 sources)"
+  },
+  "theme_similarity_threshold": 0.15,
+  "theme_lookback_days": 0
+}

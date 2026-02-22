@@ -1,0 +1,7 @@
+python-dotenv
+openai>=1.0.0
+numpy
+pandas
+umap-learn
+hdbscan>=0.8.33
+scikit-learn==1.7.2
