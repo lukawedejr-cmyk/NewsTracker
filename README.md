@@ -21,6 +21,9 @@ This project is a GitHub-safe demo of a news-clustering workflow.
 - `pipeline/report.py`: static HTML report generation.
 
 ## How To View Outputs
+
+The files in `outputs/` committed in this repo are example outputs so they can be viewed immediately.
+
 - HTML report:
   - macOS: `open outputs/report.html`
   - Linux: `xdg-open outputs/report.html`
@@ -82,14 +85,9 @@ The pipeline writes:
 - `outputs/summary_stats.json`
 - `outputs/report.html`
 
-The files in `outputs/` committed in this repo are example outputs so they can be viewed immediately.
-
 For your own use case, you should hook up your own article dataset and embeddings:
 - Provide your own input CSV with the required schema (`id`, `title`, `published`, `embedding`).
 - If your articles are not embedded yet, generate embeddings first and populate the `embedding` column.
 - Re-run the pipeline to generate outputs tailored to your data.
 
-## Notes
-- This repository no longer uses Postgres, pgvector, Azure Functions, or Azure-specific auth.
-- OpenAI is the only external API dependency for labeling and theme-title generation.
-- For reproducible local/offline demos, use `--mock-openai`.
+
